@@ -1,0 +1,33 @@
+/* app css stylesheet */
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Helvetica Neue;
+    font-weight: bold;
+}
+
+body {
+    background-color: #1976D2;
+}
+
+.outer {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.flex-contain {
+    display: flex;
+    flex-direction: column;
+    flex-flow: center;
+    margin: auto;
+    height: 100vh;
+}
+
+span {
+    margin: auto;
+    font-size: 144px;
+    line-height: .9em;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.0980392) 0px 4.27500009536743px 0px;
+}
