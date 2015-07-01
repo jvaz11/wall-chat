@@ -27,7 +27,14 @@ body {
 span {
     margin: auto;
     font-size: 144px;
-    line-height: .9em;
+    line-height: 1em;
     color: #fff;
     text-shadow: rgba(0, 0, 0, 0.0980392) 0px 4.27500009536743px 0px;
+}
+
+#clear {
+    margin: auto;
+    font-size: 16px; 
+    color: #FFF; 
+    font-weight: 200;
 }
